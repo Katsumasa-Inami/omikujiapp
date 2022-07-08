@@ -3,7 +3,7 @@ var rnd = Math.floor(Math.random() * 7);
 var result;
 switch (rnd) {
   case 0:
-    result = "大吉：今日はいい日になりそう！";
+    result = "大吉：最っ高にハイッッッってやつさっ！！";
     break;
   case 1:
     result = "中吉：気分転換が大事かも？";
